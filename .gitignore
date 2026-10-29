@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.streamlit/secrets.toml
+credit_risk_dataset.csv
+loan_data.csv
+loan_model.joblib
