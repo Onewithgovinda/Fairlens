@@ -156,21 +156,6 @@
 
 # This is an educational prototype, not a loan-approval system. Model explanations are not proof of causation or fairness. The model requires further validation, calibration, bias analysis, and legal/compliance review before any real-world lending use.
 
-# 
-
-# \## Author
-
-# 
-
-# Govinda — B.Tech Computer Science and Engineering student
-
-# 
-
-# \## License
-
-# 
-
-# No license has been specified yet. Obtain permission before redistributing third-party datasets or code.
-
+#
 
 
